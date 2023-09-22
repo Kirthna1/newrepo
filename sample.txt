@@ -1,0 +1,12 @@
+ Volume in drive D has no label.
+ Volume Serial Number is D272-0031
+
+ Directory of D:\keerthana\branch
+
+09/22/2023  02:50 PM    <DIR>          .
+09/22/2023  02:50 PM    <DIR>          ..
+09/22/2023  02:46 PM                 2 br.txt
+09/22/2023  02:46 PM                 4 p.txt
+09/22/2023  02:50 PM                 0 sample.txt
+               3 File(s)              6 bytes
+               2 Dir(s)  297,094,647,808 bytes free
